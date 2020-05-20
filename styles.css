@@ -1,0 +1,13 @@
+.row {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.h2>.col-12 {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+#exp-text {
+    margin-top: 8px;
+}
